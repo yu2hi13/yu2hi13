@@ -33,12 +33,12 @@ Hi! I am **Yuzhi Huang (黄誉之)**, a Ph.D. student at **Tsinghua Shenzhen Int
 
 My research focuses on **Embodied AI, 4D World Modeling, and Multimodal Dynamic Reasoning**. I am interested in how agents can build persistent memories, reason about evolving physical scenes, and carry out long-horizon tasks. My recent work spans memory-augmented robotic planning (**RoboStream**), dynamic-world evaluation (**Thinking in Dynamics / Dyn-Bench**), and physically-aware 4D modeling (**DynamicVerse**).
 
-I have published first/co-first-author papers at **CVPR, NeurIPS, ECCV, and ACM MM**. I received the **Tsinghua Future Scholar Scholarship (2026)**, and *Thinking in Dynamics* was also selected for an **oral presentation at the CVPR 2026 DataMFM Workshop**.
+I have published first/co-first-author papers at **CVPR, NeurIPS, ECCV, and ACM MM**. I was selected for the **2026 Young Science and Technology Talent Cultivation Program (Doctoral Track)** of the **China Association for Science and Technology (CAST)** and received the **Tsinghua Future Scholar Scholarship (2026)**. *Thinking in Dynamics* was also selected for an **oral presentation at the CVPR 2026 DataMFM Workshop**.
 
 <details>
 <summary><b>中文介绍</b></summary>
 
-你好！我是**黄誉之**，清华大学深圳国际研究生院博士生，MMLab@SIGS **Self-Evolving Embodied Agents Group** 成员，由 **Zhi Wang 教授**和 **Jingyan Jiang 博士**共同指导。我的研究聚焦于**具身智能、四维世界建模与多模态动态推理**，希望让智能体能够理解变化的物理环境、记住关键状态，并完成长时程任务。相关成果发表于 CVPR、NeurIPS、ECCV 和 ACM MM，曾获清华大学“未来学者”奖学金。欢迎交流与合作！
+你好！我是**黄誉之**，清华大学深圳国际研究生院博士生，MMLab@SIGS **Self-Evolving Embodied Agents Group** 成员，由 **Zhi Wang 教授**和 **Jingyan Jiang 博士**共同指导。我的研究聚焦于**具身智能、四维世界建模与多模态动态推理**，希望让智能体能够理解变化的物理环境、记住关键状态，并完成长时程任务。相关成果发表于 CVPR、NeurIPS、ECCV 和 ACM MM。入选**2026年度中国科协青年科技人才培育工程博士生专项计划**，曾获清华大学“未来学者”奖学金。欢迎交流与合作！
 
 </details>
 
