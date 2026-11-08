@@ -56,8 +56,9 @@ I have published first/co-first-author papers at **CVPR, NeurIPS, ECCV, and ACM 
 
 > See [Google Scholar](https://scholar.google.com/citations?user=XgWSoXkAAAAJ) or [my homepage](https://yu2hi13.github.io/#publications) for the full publication list.
 
-## First / Co-first Author
+## First / Co-first / Corresponding Author
 
+- **[Preprint 2026]** **TAU-Bench**: From Anomaly Instance Tracking to Fine-Grained Video Anomaly Understanding. [Webpage](https://yarkupa.github.io/tau-bench.github.io/) / [Paper](https://arxiv.org/abs/2608.05699) · **Corresponding author**
 - **[Preprint 2026]** **ChainVLA**: Chaining Vision-Language-Action Queries through a Unified Execution State for Long-Horizon Manipulation. [Webpage](https://muqy1818.github.io/chainvla-web/)
 - **[ECCV 2026]** **RoboStream**: Weaving Spatio-Temporal Reasoning with Memory in Vision-Language Models for Robotics. [Webpage](https://robostream123.github.io/) / [Paper](https://arxiv.org/abs/2603.12939) / [Code](https://github.com/yu2hi13/RoboStream)
 - **[CVPR 2026]** **Thinking in Dynamics**: How Multimodal Large Language Models Perceive, Track, and Reason Dynamics in Physical 4D World. [Webpage](https://dyn-bench.github.io/) / [Paper](https://arxiv.org/abs/2603.12746) / [Code](https://github.com/Dynamics-X/Thinking-in-Dynamics) / [Dataset](https://huggingface.co/datasets/yu2hi13/Dyn-Bench) · 🎤 **DataMFM Workshop Oral**
@@ -72,7 +73,6 @@ I have published first/co-first-author papers at **CVPR, NeurIPS, ECCV, and ACM 
 - **RobotWorld** — Benchmarking multimodal agents for robot use. [Webpage](https://robotworldai.github.io/) / [Paper](https://arxiv.org/abs/2610.10409) / [Code](https://github.com/robotworldai/robotworld)
 - **ChunkTrust** — Adaptive execution horizons for robot foundation policies. [Webpage](https://hf618.github.io/ChunkTrust.github.io/) / [Paper](https://arxiv.org/abs/2609.39754) / [Code](https://github.com/hf618/ChunkTrust)
 - **Zip-VGGT** — Object-centric spatiotemporal KV compression for streaming vision transformers. [Webpage](https://zipvggt.github.io/)
-- **TAU-Bench** — From anomaly instance tracking to fine-grained video anomaly understanding. [Webpage](https://yarkupa.github.io/tau-bench.github.io/) / [Paper](https://arxiv.org/abs/2608.05699)
 
 # 📦 Open-source Projects
 
