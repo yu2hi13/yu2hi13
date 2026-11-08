@@ -33,7 +33,7 @@ Hi! I am **Yuzhi Huang (黄誉之)**, a Ph.D. student at **Tsinghua Shenzhen Int
 
 My research focuses on **Embodied AI, 4D World Modeling, and Multimodal Dynamic Reasoning**. I am interested in how agents can build persistent memories, reason about evolving physical scenes, and carry out long-horizon tasks. My recent work spans memory-augmented robotic planning (**RoboStream**), dynamic-world evaluation (**Thinking in Dynamics / Dyn-Bench**), and physically-aware 4D modeling (**DynamicVerse**).
 
-I have published first/co-first-author papers at **CVPR, NeurIPS, ECCV, and ACM MM**. I was selected for the **2026 Young Science and Technology Talent Cultivation Program (Doctoral Track)** of the **China Association for Science and Technology (CAST)** and received the **Tsinghua Future Scholar Scholarship (2026)**. *Thinking in Dynamics* was also selected for an **oral presentation at the CVPR 2026 DataMFM Workshop**.
+I have published first/co-first-author papers at **CVPR, NeurIPS, ECCV, and ACM MM**, including **Thinking in Dynamics**, which was selected for an **oral presentation at the CVPR 2026 DataMFM Workshop**. I was selected for the **2026 Young Science and Technology Talent Cultivation Program (Doctoral Track)** of the **China Association for Science and Technology (CAST)** and received the **Tsinghua Future Scholar Scholarship (2026)**.
 
 <details>
 <summary><b>中文介绍</b></summary>
