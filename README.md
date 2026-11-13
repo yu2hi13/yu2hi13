@@ -18,9 +18,9 @@
   &nbsp;&nbsp;
   <a href="https://mmlab-sigs.github.io/groups/self-evolving-embodied-agents-group/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/mmlab-wordmark-dark.png">
-      <source media="(prefers-color-scheme: light)" srcset="assets/mmlab-wordmark-light.png">
-      <img src="assets/mmlab-wordmark-light.png" width="180" alt="MMLab@SIGS — Self-Evolving Embodied Agents Group">
+      <source media="(prefers-color-scheme: dark)" srcset="assets/mmlab-sigs-logo-dark.png">
+      <source media="(prefers-color-scheme: light)" srcset="assets/mmlab-sigs-logo.png">
+      <img src="assets/mmlab-sigs-logo.png" width="230" alt="mmlab@SIGS">
     </picture>
   </a>
 </p>
@@ -48,6 +48,7 @@ I have published first/co-first-author papers at **CVPR, NeurIPS, ECCV, and ACM 
   <a href="mailto:yz_huang13@163.com"><img alt="Email" src="https://img.shields.io/badge/Email-yz__huang13%40163.com-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white"></a>
   <a href="https://scholar.google.com/citations?user=XgWSoXkAAAAJ"><img alt="Google Scholar" src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&amp;logo=googlescholar&amp;logoColor=white"></a>
   <a href="https://huggingface.co/yu2hi13"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&amp;logo=huggingface&amp;logoColor=black"></a>
+  <a href="https://x.com/yzhuang_13"><img alt="X (Twitter): @yzhuang_13" src="https://img.shields.io/badge/X-%40yzhuang__13-000000?style=flat-square&amp;logo=x&amp;logoColor=white"></a>
   <a href="https://www.xiaohongshu.com/user/profile/605b47df000000000100b0a5"><img alt="RedNote" src="https://img.shields.io/badge/RedNote-FF2442?style=flat-square&amp;logo=xiaohongshu&amp;logoColor=white"></a>
   <a href="Wechat.jpg"><img alt="WeChat" src="https://img.shields.io/badge/WeChat-07C160?style=flat-square&amp;logo=wechat&amp;logoColor=white"></a>
 </p>
@@ -58,6 +59,7 @@ I have published first/co-first-author papers at **CVPR, NeurIPS, ECCV, and ACM 
 
 ## First / Co-first / Corresponding Author
 
+- **[Project Release 2026]** **Mind2Act World**: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation. [Webpage](https://mind2act-world.com/) · Technical report and full code coming soon.
 - **[Preprint 2026]** **TAU-Bench**: From Anomaly Instance Tracking to Fine-Grained Video Anomaly Understanding. [Webpage](https://yarkupa.github.io/tau-bench.github.io/) / [Paper](https://arxiv.org/abs/2608.05699) · **Corresponding author**
 - **[Preprint 2026]** **ChainVLA**: Chaining Vision-Language-Action Queries through a Unified Execution State for Long-Horizon Manipulation. [Webpage](https://muqy1818.github.io/chainvla-web/)
 - **[ECCV 2026]** **RoboStream**: Weaving Spatio-Temporal Reasoning with Memory in Vision-Language Models for Robotics. [Webpage](https://robostream123.github.io/) / [Paper](https://arxiv.org/abs/2603.12939) / [Code](https://github.com/yu2hi13/RoboStream)
